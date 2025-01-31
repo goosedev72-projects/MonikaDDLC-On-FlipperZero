@@ -6,7 +6,8 @@ This is a fan work, based on Monika from DDLC by Team Salvato (go try it!), the 
 - [x] base sctructure
 - [ ] assets
   - [x] icons
-  - [ ] animations
+  - [x] animations
+  - [ ] more animations
 - [ ] set up fzmapbt
 ## Structure
 
