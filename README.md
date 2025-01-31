@@ -2,6 +2,12 @@
 
 This is a fan work, based on Monika from DDLC by Team Salvato (go try it!), the inspiration for facial expressions (based on assets/Icons/Passport icons) is by @KingBophades!
 
+## TO-DO
+- [x] base sctructure
+- [ ] assets
+  - [x] icons
+  - [ ] animations
+- [ ] set up fzmapbt
 ## Structure
 
 - assets - the main asset pack source
