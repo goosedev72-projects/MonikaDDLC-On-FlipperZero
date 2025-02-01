@@ -18,7 +18,7 @@ This is a fan work, based on Monika from DDLC by Team Salvato (go try it!), the 
   - expressions - Monika's facial expressions adapted for Flipper format
   
 ## Compiling (Momentum)
-### Auto way
+### Auto way (in development)
 It requires Python3 and pip3 preinstalled.
 
 I made my own script for building asset packs for Momentum called FZMAPBT (Flipper Zero Momentum Asset Pack Build Tool).
@@ -76,7 +76,7 @@ Now, in asset_packs/, you will see 'Monika' folder there. Now proceed to install
 Now installing the asset pack!
 ### Momentum Firmware
 
-Compile the pack, or download precompile release.
+Compile the pack, or download precompiled release.
 
 Then, use qFlipper to upload the asset pack in this path:
 FLIPPER SD/asset_packs/Monika
@@ -90,4 +90,12 @@ Now explore your system!
 ### Other firmware (Official, Unleashed, etc.)
 
 You need to clone the firmware source code and replace assets according to assets structure.
-Sadly, only Momentum (remake of Xtreme on Official and Unleashed firmware code, made by the same developers to replace RougeMaster for stablity)
+Only Momentum (remake of Xtreme on Official and Unleashed firmware code, made by the same developers to replace RougeMaster for stablity) has the feature called asset packs, where you can replace assets in a button click
+
+## Contributing
+
+I love contributions! Everyone is invited!
+For this I made "development" folder, where all facial expressions stored in PNG files, so you can draw your own animations based on my assets and PR to add your own here, I'll be happy <3
+
+## License
+MIT License, do not forget about @KingBophades for my inspiration!
