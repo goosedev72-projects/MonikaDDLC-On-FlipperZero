@@ -2,6 +2,9 @@
 
 This is a fan work, based on Monika from DDLC by Team Salvato (go try it!), the inspiration for facial expressions (based on assets/Icons/Passport icons) is by @KingBophades!
 
+## Something cool
+Momentum Firmware is perfect! BIG thanks to @Willy-JL for merging my pull request, it made me happy and my pack appear for a lot of people! Momentum FW is a strong project, 💪, thanks again! 😁 
+
 ## TO-DO
 - [x] base sctructure
 - [ ] assets
